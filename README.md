@@ -2,12 +2,12 @@
 
 # 👋 Hey, I'm Kotapati Pavan Sai
 
-### B.Tech IT Student · ML Engineer 
+### B.Tech IT Student · ML Engineer · Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pavan--sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/pavan-sai](https://www.linkedin.com/in/pavan-sai-16bb992a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pavan--sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-sai-16bb992a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kotapatipavansai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kotapatipavansai)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pavansai3007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Pavansai3007)
-[![HackerRank](https://img.shields.io/badge/HackerRank-pavansai779977-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/pavansai779977)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pavansai3007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pavansai3007/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-pavansai779977-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pavansai779977)
 [![Email](https://img.shields.io/badge/Email-pavansai779977%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavansai779977@gmail.com)
 
 </div>
@@ -17,9 +17,9 @@
 ## 🚀 About Me
 
 - 🎓 Pursuing **B.Tech in Information Technology** at V.R. Siddhartha Engineering College, Vijayawada — **CGPA: 9.01 / 10**
-- 🛰️ Passionate about **ML, Remote Sensing, and Geospatial AI** — working with Sentinel-5P, Landsat, GEE, and LSTM models
-- 📡 Currently researching **Air Quality Forecasting** and **Urban Heat Island Monitoring** using satellite data
-- 🧠 Exploring the intersection of **Deep Learning**, **Geospatial Analysis**, and **Full-Stack Development**
+- 🤖 Passionate about **Machine Learning, Deep Learning, and Data-Driven Solutions**
+- 🌐 Building full-stack applications with **MERN Stack** and **Python backends**
+- 🧠 Exploring **AI/ML**, competitive programming, and end-to-end system development
 - ⚡ Fun fact: I organized **OMNITRIX Hackathon** under the IEEE CIS Student Chapter!
 
 ---
@@ -48,13 +48,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![LSTM](https://img.shields.io/badge/LSTM%20Deep%20Learning-FF6B6B?style=flat-square&logo=keras&logoColor=white)
 
-### 🛰️ Remote Sensing & Geospatial
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white)
-![Sentinel-5P](https://img.shields.io/badge/Sentinel--5P%20TROPOMI-1A73E8?style=flat-square)
-![Landsat](https://img.shields.io/badge/Landsat-2D9CDB?style=flat-square)
-![MERRA-2](https://img.shields.io/badge/MERRA--2-34A853?style=flat-square)
-![ERA5](https://img.shields.io/badge/ERA5--Land-0F9D58?style=flat-square)
-
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -69,16 +62,16 @@
 ### 🌡️ Urban Heat Island (UHI) Monitoring & Prediction System
 > `Python` · `Google Earth Engine` · `Landsat` · `ML`
 
-- Extracted **LST, NDVI, NDBI, and NDWI** indices from Landsat imagery for Vijayawada using Google Earth Engine
-- Built **ML prediction models** to forecast UHI intensity and performed temporal trend analysis on land cover changes
+- Extracted **LST, NDVI, NDBI, and NDWI** indices from Landsat imagery for Vijayawada
+- Built **ML prediction models** to forecast UHI intensity; performed temporal trend analysis on land cover changes
 
 ---
 
 ### 🌫️ Air Pollution Vulnerability Assessment & Forecasting
-> `Python` · `LSTM` · `Sentinel-5P` · `MERRA-2` · `ERA-5`
+> `Python` · `LSTM` · `Deep Learning`
 
-- Collected **NO₂, SO₂, CO, O₃** from Sentinel-5P TROPOMI; integrated **PM2.5/PM10** from MERRA-2 and ERA-5 weather reanalysis data
-- Trained **LSTM deep learning model** on pollutant and meteorological features; evaluated with RMSE and MAE metrics
+- Collected multi-source pollutant data (NO₂, SO₂, CO, O₃, PM2.5/PM10) and integrated meteorological features
+- Trained an **LSTM deep learning model** for forecasting; evaluated using RMSE and MAE metrics
 
 ---
 
@@ -125,7 +118,7 @@
 
 <div align="center">
 
-*"Building intelligent systems that understand the world from data — pixel by pixel, layer by layer."*
+*"Building intelligent systems that understand the world — one model at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kotapatipavansai&color=blueviolet&style=flat-square)
 

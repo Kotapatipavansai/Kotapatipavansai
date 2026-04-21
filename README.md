@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Kotapati Pavan Sai
 
-### B.Tech IT Student · ML Engineer · Remote Sensing Researcher
+### B.Tech IT Student · ML Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavan--sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-sai)
 [![GitHub](https://img.shields.io/badge/GitHub-Kotapatipavansai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kotapatipavansai)

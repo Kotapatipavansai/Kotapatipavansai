@@ -5,7 +5,6 @@
 ### B.Tech IT Student · ML Engineer · Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavan--sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-sai-16bb992a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-Kotapatipavansai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kotapatipavansai)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Pavansai3007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pavansai3007/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-pavansai779977-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pavansai779977)
 [![Email](https://img.shields.io/badge/Email-pavansai779977%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavansai779977@gmail.com)
